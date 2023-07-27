@@ -1,11 +1,14 @@
 {
-	"name": "Stark Trinkets",
+	"name": "Linea Apes",
 	"symbol": "LNAP",
-	"description": "Welcome to Stark Trinkets collection, comprised of 333 unique NFTs. Featuring superheroes, Darth Vader, and popular figurines, this collection exudes charm. Meticulously designed, these digital treasures become highly sought-after items for collectors and enthusiasts. Take action now to acquire your very own exclusive NFT and become part of this extraordinary world. Stark Trinkets invites you to embark on an immersive and captivating adventure.",
+	"description": "Dive into Linea Apes, a riotous NFT collection of 666 Ape Figures, each a unique splash of digital fun. It's a primal party in your pocket, where every ape is an adventure. Welcome to the jungle of joy, individuality, and unbridled imagination",
 	"image": "https://github.com/dedubluman/old/blob/main/ezgif.com-video-to-gif%20(3).gif?raw=true",
 	"image_url": "https://github.com/dedubluman/old/blob/main/ezgif.com-video-to-gif%20(3).gif?raw=true",
 	"banner_image_url": "https://github.com/dedubluman/old/blob/main/bannerke.png?raw=true",
 	"banner": "https://github.com/dedubluman/old/blob/main/bannerke.png?raw=true",
 	"banner_url": "https://github.com/dedubluman/old/blob/main/bannerke.png?raw=true",
-	"banner_image": "https://github.com/dedubluman/old/blob/main/bannerke.png?raw=true"
+	"banner_image": "https://github.com/dedubluman/old/blob/main/bannerke.png?raw=true",
+	"external_link": "https://twitter.com/Perma_fr0st",
+	"external": "https://twitter.com/Perma_fr0st",
+	"external_links": "https://twitter.com/Perma_fr0st"
 }
